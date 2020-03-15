@@ -1,0 +1,12 @@
+.buy-now-button{
+    background-color: #000000;
+    color: #FFF;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.carousel-indicators li{
+    background-color: orange;
+}
