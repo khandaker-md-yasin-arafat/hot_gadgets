@@ -10,3 +10,18 @@
 .carousel-indicators li{
     background-color: orange;
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px lightgray; 
+    text-align:center;
+} 
+.see{
+    float: right;
+    color: orange;
+    font-size: 20px;
+}
+.headline{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
